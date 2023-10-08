@@ -2,8 +2,11 @@
 
 This repository contains the informational material and exercises that I completed to do a deep-dive into learning Git and Github.
 
-## Learning Materials: Full Git and Github Edureka Video Tutorial
+## Learning Materials
 
+### Github Docs
+
+### Full Git and Github Edureka Video Tutorial
 - [Edureka Git and Github Video Tutorial](https://www.youtube.com/live/KMOmw19ZCGs?si=cSY36aYlFqQ4OJ3H) - 5 Hours
 
 - Git & GitHub  Full Course Tutorial:
@@ -75,11 +78,17 @@ This repository contains the informational material and exercises that I complet
 
 - Completed entire tutorial and followed along with the demonstrations in my own terminal.
 
-## This repository was created using the following skills:
+## Skills and concepts gained
 
 - Git CLI
 - Visual Studio Code
 - GH CLI
+- Github access tokens
+- Github web based repositories
+- Github desktop
+- Github access tokens
+- Configuring remote repository on a local computer
+
 
 
 ## Date Completed
