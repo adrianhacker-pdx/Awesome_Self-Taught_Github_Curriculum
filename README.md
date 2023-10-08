@@ -1,4 +1,4 @@
-# Git and Github Learning Activities
+# Git and Github Learning Module
 
 This repository contains the informational material and exercises that I completed to do a deep-dive into learning Git and Github.
 
@@ -94,3 +94,25 @@ This repository contains the informational material and exercises that I complet
 ## Date Completed
 
 - In Progress 
+
+# Adrian's Awesome Explainer for the Self-Taught Student:  Git and Github
+
+I used to look at GitHub and think, "This is how you install software? Where is the .exe? What is this place even? Do I have to attend a secret meeting in a dungeon somewhere and take an oath to gain access to understanding what this place even is?" Chances are that you or someone you know has had the exact same thought.
+
+Git and GitHub may sound like they are the same thing, or like one is the bigger brother of the other. The truth is, Git and GitHub serve vastly different purposes. It's like comparing night and day. "Git" is to "GitHub" as "Save As" is to "Google Drive." Git is the equivalent of a bookmark, while GitHub is the equivalent of a bookshelf. Git refers to the command-line operations you type, whereas GitHub is the website that you might think wants to confuse you to death. It doesn't, and it won't, I promise. Follow along closely...
+
+Imagine you and a group of friends have only one copy of every "Lord of the Rings" book in the trilogy. Your group has been assigned to do a book report on all three books, due in one week. Good luck, right? Your group has faster readers, slower readers, and varying levels of interest. Each member is assigned chapters to read and summarize across all three books.
+
+Think of each book in the series as a "branch" that includes the finished written summaries. Everyone takes turns reading the first book, and while doing so, places a note on it that says, "Do Not Take This Home - Not Everyone Has Read Their Section Yet." This makes it clear that the book and the reports are not yet complete. When everyone is done, a note says "Work Completed." Last-minute footnotes can be added by creating a new branch, akin to printing an extra copy and making edits. The final draft remains preserved.
+
+The "commit" is like noting down the page number where you stopped reading. Multiple people can track their progress using commits, which show who did what and when.
+
+After editing the draft with my footnotes, I can ask a team member to proofread them through a "pull request," a feature exclusive to GitHub. I use Git to track my edits and push my work to GitHub. The pull request allows the leader to approve or reject my edits. Upon approval, my branch is merged into the final draft, also known as the main branch.
+
+Git enables this diverse group to collaborate without getting in each other's way. Code files can be extremely long, and starting over would be devastating. GitHub serves as the cloud storage where multiple people can interact under supervision.
+
+I hope this clarifies the Git and GitHub universe for you!
+
+
+
+
