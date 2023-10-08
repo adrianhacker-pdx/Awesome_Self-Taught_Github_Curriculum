@@ -113,6 +113,7 @@ Git enables this diverse group to collaborate without getting in each other's wa
 
 I hope this clarifies the Git and GitHub universe for you!
 
+*A.I. used for grammar and spell checking only
 
 
 
