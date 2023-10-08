@@ -1,5 +1,7 @@
 # Git and Github Learning Activities
 
+This repository contains the informational material and exercises that I completed to do a deep-dive into learning Git and Github.
+
 ## Learning Materials: Full Git and Github Edureka Video Tutorial
 
 - [Edureka Git and Github Video Tutorial](https://www.youtube.com/live/KMOmw19ZCGs?si=cSY36aYlFqQ4OJ3H) - 5 Hours
@@ -79,3 +81,7 @@
 - Visual Studio Code
 - GH CLI
 
+
+## Date Completed
+
+- In Progress 
